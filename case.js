@@ -316,7 +316,8 @@ return plugins
 //========= [ COMMANDS PLUGINS ] =================================================
 let pluginsDisable = true
 const plugins = await pluginsLoader(path.resolve(__dirname, "plugins"))
-const skyzodev = { Sky, toIDR, isCreator, Reply, command, isPremium, capital, isCmd, example, text, runtime, qtext, qlocJpm, qmsg, mime, sleep, botNumber }
+let Sky = Xyro
+const skyzodev = { Xyro, Sky, toIDR, isCreator, Reply, command, isPremium, capital, isCmd, example, text, runtime, qtext, qlocJpm, qmsg, mime, sleep, botNumber }
 for (let plugin of plugins) {
 if (plugin.command.find(e => e == command.toLowerCase())) {
 pluginsDisable = false
