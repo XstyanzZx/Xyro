@@ -43,9 +43,9 @@ global.linkSaluran = "https://whatsapp.com/channel/0029VaeZzWCJpe8ZiMEj7s2o"
 global.idSaluran = "120363279371386389@newsletter"
 global.namaSaluran = "Xyro Official - Channel"
 
-global.merchantIdOrderKuota = "-"
-global.apiOrderKuota = "-"
-global.qrisOrderKuota = "-"
+global.merchantIdOrderKuota = "OK1372249"
+global.apiOrderKuota = "753572517323682311372249OKCTE5F87F1E9EF011D9B4055AFB9D3D109B"
+global.qrisOrderKuota = "00020101021126670016COM.NOBUBANK.WWW01189360050300000879140214639002569361280303UMI51440014ID.CO.QRIS.WWW0215ID20232951035430303UMI5204541153033605802ID5920YANZSJEBEH OK13722496015GORONTALO UTARA61059625262070703A01630498F4"
 
 // Settings Api Digital Ocean
 global.apiDigitalOcean = "-"
