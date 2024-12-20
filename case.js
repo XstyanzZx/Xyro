@@ -241,6 +241,7 @@ title: `*☁️ Vps Digital Ocean*
 * Free Install Panel
 * Free Install Wings/Nodes
 * Free Install Tema [ Ram 8, 16 ]
+* Free Protected Panel [ Ram 8, 16 ]
 * Free Req Subdomain
 * Free Reg Region, Os, Versi
 * Free Egg Bot Wa
