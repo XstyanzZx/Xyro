@@ -51,7 +51,7 @@ global.qrisOrderKuota = "-"
 global.apiDigitalOcean = "-"
 
 // Settings Api Digital Ocean
-global.apiSimpelBot = "new2025"
+global.apiSimpelBot = "66711"
 
 
 // Settings All Payment
